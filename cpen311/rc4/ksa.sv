@@ -1,6 +1,6 @@
 //`default_nettype none
 
-module ksanao(
+module ksa(
 			input logic CLOCK_50,
 			input logic [3:0] KEY,
 			input logic [9:0] SW,
